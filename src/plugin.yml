@@ -1,0 +1,8 @@
+name: HiByeCraft_Skill_Plugin
+main: com.anson.mc.main.HBCSkillPlugin
+version: 0.0.1
+author: Anson
+commands:
+  saiyan:
+    description: For the Skill Group <Saiyan>
+    usage: "Usage: /saiyan <SSJ / SSJB>"
